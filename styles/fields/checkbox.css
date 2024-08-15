@@ -20,10 +20,9 @@
   }
 
   .checkbox-image {
-    background-image: url(../../assets/icons/checkbox-default.svg);
     flex: 0 0 1.5rem;
     height: 1.5rem;
-    ;
+    background-image: url(../../assets/icons/checkbox-default.svg);
   }
 
   &:hover,
